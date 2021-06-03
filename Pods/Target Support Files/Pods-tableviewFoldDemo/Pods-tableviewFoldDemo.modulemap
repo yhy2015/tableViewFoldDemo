@@ -1,0 +1,6 @@
+module Pods_tableviewFoldDemo {
+  umbrella header "Pods-tableviewFoldDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
